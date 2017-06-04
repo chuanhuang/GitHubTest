@@ -14,7 +14,7 @@
 {
     // Override point for customization after application launch.
     
-    //open
+    //open IT world
     return YES;
 }
 							
